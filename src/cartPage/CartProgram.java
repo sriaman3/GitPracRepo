@@ -6,7 +6,7 @@ public class CartProgram {
 		
 		System.out.println("Cart1");
 		System.out.println("Cart2");
-		System.out.println("Cart3");
+		
 
 	}
 
