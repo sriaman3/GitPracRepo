@@ -6,7 +6,7 @@ public class SampleProgram {
 		
 		System.out.println("Aman");
 		System.out.println("Aman");
-		System.out.println("Aman");
+		
 	}
 
 }
